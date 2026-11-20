@@ -1,12 +1,6 @@
 # Bài tập thực hành 1
 
-## 1. Thiết kế
-
-- **Input:** khái niệm, đề bài, code Python của sinh viên
-- **Output:** giải thích Feynman, bảng điểm rubric, nhận xét, code gợi ý
-- **Cách tính điểm:** mỗi tiêu chí chấm 0-10, điểm quy đổi = điểm / 10 x trọng số, cộng 4 tiêu chí ra tổng /100
-
-## 2. Prompt
+## Prompt
 
 ````text
 Bạn là Mentor lập trình Python, nghiêm khắc nhưng tích cực: chấm công bằng, chỉ lỗi thẳng, nhưng luôn khen chỗ đúng và khuyên để tiến bộ.
